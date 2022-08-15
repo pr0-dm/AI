@@ -1,1 +1,1 @@
-# AI first neural networkCancel changes
+# AI - first neural network
